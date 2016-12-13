@@ -8,3 +8,9 @@ Test project for study
 - открыть webstorm и клонировать репозиторий
 - создать файл .gitignore и добавить туда .idea
 - создать файл package.json >`npm init` и добавить его в git
+- сделать комит
+
+- установка библиотек, например jquery >`npm install --save jquery`
+- добавить появившуюся папку node_modules в .gitignore
+
+
