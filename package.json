@@ -4,7 +4,8 @@
   "description": "Test project for study",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node_modules\\.bin\\webpack"
   },
   "repository": {
     "type": "git",
@@ -18,5 +19,9 @@
   "homepage": "https://github.com/RomanZelenov/test#readme",
   "dependencies": {
     "jquery": "^3.1.1"
+  },
+  "devDependencies": {
+    "eslint": "^3.12.1",
+    "webpack": "^1.14.0"
   }
 }
